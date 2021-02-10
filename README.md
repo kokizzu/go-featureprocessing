@@ -5,6 +5,7 @@
 [![codecov](https://codecov.io/gh/nikolaydubina/go-featureprocessing/branch/main/graph/badge.svg?token=02QNME4TNT)](https://codecov.io/gh/nikolaydubina/go-featureprocessing)
 [![Go Reference](https://pkg.go.dev/badge/github.com/nikolaydubina/go-featureprocessing.svg)](https://pkg.go.dev/github.com/nikolaydubina/go-featureprocessing)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
+<a href="https://github.com/MShawon/github-clone-count-badge"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Cloned+in+14+days&query=count&url=https://github.com/nikolaydubina/go-featureprocessing/blob/main/docs/githubstats.json?raw=True&logo=github"></a>
 
 Fast, simple [sklearn](https://scikit-learn.org/stable/modules/preprocessing.html)-like feature processing for Go
 
